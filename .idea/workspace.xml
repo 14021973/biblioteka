@@ -14,6 +14,9 @@
     <option name="myAutoScrollToSource" value="true" />
     <option name="myElementSize" value="209" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="biblioteka" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -23,6 +26,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\kzawa\IdeaProjects\biblioteka" />
+      </set>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -120,22 +130,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="596" y="108" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.834@0.0.1536.834" timestamp="1583437197184" />
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1584447024543">
+    <state width="348" height="442" key="Diff.GoToChangePopup" timestamp="1584450347179">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1584447024543" />
-    <state x="577" y="172" key="FileChooserDialogImpl" timestamp="1584448623331">
+    <state width="348" height="442" key="Diff.GoToChangePopup/0.0.1536.834@0.0.1536.834" timestamp="1584450347179" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1584450844562">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="577" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584448623331" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1584450844562" />
+    <state x="577" y="172" key="FileChooserDialogImpl" timestamp="1584450606782">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="577" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584450606782" />
     <state x="591" y="333" key="Github.CreateGistDialog" timestamp="1584448645680">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="591" y="333" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1584448645680" />
-    <state x="639" y="311" key="Github.ShareDialog" timestamp="1584448497226">
+    <state x="639" y="311" key="Github.ShareDialog" timestamp="1584449989624">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="639" y="311" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1584448497226" />
+    <state x="639" y="311" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1584449989624" />
+    <state x="556" y="123" key="Github.UntrackedFilesDialog" timestamp="1584449165699">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="556" y="123" key="Github.UntrackedFilesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584449165699" />
     <state width="1492" height="213" key="GridCell.Tab.0.bottom" timestamp="1584447390368">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -172,10 +190,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="439" y="116" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1584447252312" />
-    <state x="277" y="0" key="SettingsEditor" timestamp="1584448877759">
+    <state x="277" y="0" key="SettingsEditor" timestamp="1584450197853">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584448877759" />
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584450197853" />
+    <state x="618" y="333" key="VCS.ChangelistChooser" timestamp="1584450549324">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="618" y="333" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1584450549324" />
+    <state x="523" y="151" key="VcsDiffUtil.ChangesDialog" timestamp="1584450349735">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="523" y="151" key="VcsDiffUtil.ChangesDialog/0.0.1536.834@0.0.1536.834" timestamp="1584450349735" />
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584447024543">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -184,10 +210,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1584446445003" />
-    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1584448298399">
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1584450765870">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1584448298399" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1584450765870" />
     <state x="499" y="173" key="extract.method.dialog" timestamp="1582451712450">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -204,10 +230,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1581791801157" />
-    <state x="599" y="208" key="svn.repositoryBrowser" timestamp="1583437226557">
+    <state x="599" y="208" key="svn.repositoryBrowser" timestamp="1584450449303">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="599" y="208" key="svn.repositoryBrowser/0.0.1536.834@0.0.1536.834" timestamp="1583437226557" />
+    <state x="599" y="208" key="svn.repositoryBrowser/0.0.1536.834@0.0.1536.834" timestamp="1584450449303" />
     <state x="491" y="329" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583350592589">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
