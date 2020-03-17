@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42c9820e-93ba-440c-b1f2-c0ec7dc341d0" name="Default Changelist" comment="" />
+    <list default="true" id="42c9820e-93ba-440c-b1f2-c0ec7dc341d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pl/biblioteka/app/LibraryApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pl/biblioteka/app/LibraryApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +29,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -89,19 +93,66 @@
       <option name="presentableId" value="Default" />
       <updated>1581179948648</updated>
     </task>
+    <task id="LOCAL-00001" summary="zmiana wersji">
+      <created>1584450874839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584450874839</updated>
+    </task>
+    <task id="LOCAL-00002" summary=" zmiana wersji na 1.12">
+      <created>1584450950930</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584450950930</updated>
+    </task>
+    <task id="LOCAL-00003" summary=" zmiana wersji na 1.13">
+      <created>1584451479994</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584451479994</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myShow1" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <MESSAGE value="zmiana wersji" />
+    <MESSAGE value=" zmiana wersji na 1.12" />
+    <MESSAGE value=" zmiana wersji na 1.13" />
+    <option name="LAST_COMMIT_MESSAGE" value=" zmiana wersji na 1.13" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="76" key="#Notifications" timestamp="1583009008808">
+    <state x="361" y="76" key="#Notifications" timestamp="1584451044186">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1583009008808" />
+    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1584451044186" />
     <state x="361" y="76" key="#Project_Structure" timestamp="1583001322168">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -130,18 +181,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="596" y="108" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.834@0.0.1536.834" timestamp="1583437197184" />
-    <state x="424" y="12" key="CommitChangelistDialog2" timestamp="1584450873769">
+    <state x="424" y="12" key="CommitChangelistDialog2" timestamp="1584451479289">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="424" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1584450873769" />
+    <state x="424" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1584451479289" />
     <state width="348" height="442" key="Diff.GoToChangePopup" timestamp="1584450347179">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="348" height="442" key="Diff.GoToChangePopup/0.0.1536.834@0.0.1536.834" timestamp="1584450347179" />
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1584450844562">
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1584451318483">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1584450844562" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1584451318483" />
     <state x="577" y="172" key="FileChooserDialogImpl" timestamp="1584450606782">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -198,14 +249,18 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584450197853" />
+    <state x="575" y="122" key="VCS.ChangeListViewerDialog" timestamp="1584451180049">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="575" y="122" key="VCS.ChangeListViewerDialog/0.0.1536.834@0.0.1536.834" timestamp="1584451180049" />
     <state x="618" y="333" key="VCS.ChangelistChooser" timestamp="1584450549324">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="618" y="333" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1584450549324" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1584450882154">
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1584451481985">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1584450882154" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1584451481985" />
     <state x="523" y="151" key="VcsDiffUtil.ChangesDialog" timestamp="1584450349735">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -222,6 +277,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1584450765870" />
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584451363508">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="578" y="334" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.834@0.0.1536.834" timestamp="1584451363508" />
     <state x="499" y="173" key="extract.method.dialog" timestamp="1582451712450">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
