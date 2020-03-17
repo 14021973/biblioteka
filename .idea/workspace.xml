@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42c9820e-93ba-440c-b1f2-c0ec7dc341d0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myAutoScrollToSource" value="true" />
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XX6AXQoeh5ZJe8ZC7ZncMnpziA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration name="LibraryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.biblioteka.app.LibraryApp" />
+      <module name="biblioteka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pl.biblioteka.app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LibraryApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pl.biblioteka.app.LibraryApp" />
+      <module name="biblioteka" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LibraryApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\kzawa\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42c9820e-93ba-440c-b1f2-c0ec7dc341d0" name="Default Changelist" comment="" />
+      <created>1581179948648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581179948648</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myShow1" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="76" key="#Notifications" timestamp="1583009008808">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Notifications/0.0.1536.834@0.0.1536.834" timestamp="1583009008808" />
+    <state x="361" y="76" key="#Project_Structure" timestamp="1583001322168">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Project_Structure/0.0.1536.834@0.0.1536.834" timestamp="1583001322168" />
+    <state x="361" y="76" key="#Servers" timestamp="1581792373137">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#Servers/0.0.1536.834@0.0.1536.834" timestamp="1581792373137" />
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583001651151">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1583001651151" />
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1583052674327">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="574" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834@0.0.1536.834" timestamp="1583052674327" />
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1583001638388">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="498" y="201" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1536.834@0.0.1536.834" timestamp="1583001638388" />
+    <state x="493" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581529163481">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="493" y="106" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1536.834@0.0.1536.834" timestamp="1581529163481" />
+    <state x="596" y="108" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1583437197184">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="596" y="108" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.834@0.0.1536.834" timestamp="1583437197184" />
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog" timestamp="1584447024543">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="DiffContextDialog/0.0.1536.834@0.0.1536.834" timestamp="1584447024543" />
+    <state x="577" y="172" key="FileChooserDialogImpl" timestamp="1584448623331">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="577" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1584448623331" />
+    <state x="591" y="333" key="Github.CreateGistDialog" timestamp="1584448645680">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="591" y="333" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1584448645680" />
+    <state x="639" y="311" key="Github.ShareDialog" timestamp="1584448497226">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="639" y="311" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1584448497226" />
+    <state width="1492" height="213" key="GridCell.Tab.0.bottom" timestamp="1584447390368">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="213" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1584447390368" />
+    <state width="1492" height="213" key="GridCell.Tab.0.center" timestamp="1584447390368">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="213" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1584447390368" />
+    <state width="1492" height="213" key="GridCell.Tab.0.left" timestamp="1584447390368">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="213" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1584447390368" />
+    <state width="1492" height="213" key="GridCell.Tab.0.right" timestamp="1584447390368">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="213" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1584447390368" />
+    <state width="1492" height="265" key="GridCell.Tab.1.bottom" timestamp="1583001790760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1583001790760" />
+    <state width="1492" height="265" key="GridCell.Tab.1.center" timestamp="1583001790760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1583001790760" />
+    <state width="1492" height="265" key="GridCell.Tab.1.left" timestamp="1583001790760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1583001790760" />
+    <state width="1492" height="265" key="GridCell.Tab.1.right" timestamp="1583001790760">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1492" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1583001790760" />
+    <state x="439" y="116" key="NewModule_or_Project.wizard" timestamp="1584447252312">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="439" y="116" key="NewModule_or_Project.wizard/0.0.1536.834@0.0.1536.834" timestamp="1584447252312" />
+    <state x="277" y="0" key="SettingsEditor" timestamp="1584448877759">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="0" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1584448877759" />
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1584447024543">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1584447024543" />
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584446445003">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1584446445003" />
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog" timestamp="1584448298399">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="243" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1584448298399" />
+    <state x="499" y="173" key="extract.method.dialog" timestamp="1582451712450">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="173" key="extract.method.dialog/0.0.1536.834@0.0.1536.834" timestamp="1582451712450" />
+    <state x="463" y="6" width="609" height="804" key="find.popup" timestamp="1581528902775">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="463" y="6" width="609" height="804" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1581528902775" />
+    <state x="425" y="189" key="run.anything.popup" timestamp="1581791811467">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="425" y="189" key="run.anything.popup/0.0.1536.834@0.0.1536.834" timestamp="1581791811467" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1581791801157">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1581791801157" />
+    <state x="599" y="208" key="svn.repositoryBrowser" timestamp="1583437226557">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="599" y="208" key="svn.repositoryBrowser/0.0.1536.834@0.0.1536.834" timestamp="1583437226557" />
+    <state x="491" y="329" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1583350592589">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="491" y="329" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.834@0.0.1536.834" timestamp="1583350592589" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/biblioteka$biblioteka.ic" NAME="biblioteka Coverage Results" MODIFIED="1581791990627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/biblioteka$LibraryApp.ic" NAME="LibraryApp Coverage Results" MODIFIED="1583001772829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pl.biblioteka.app.*</FILTER>
+    </SUITE>
+  </component>
+</project>
