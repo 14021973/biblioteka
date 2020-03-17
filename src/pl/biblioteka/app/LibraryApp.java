@@ -2,7 +2,7 @@ package pl.biblioteka.app;
 
 public class LibraryApp {
     public static void main(String[] args) {
-        final String appName="Biblioteka chyba ver 1.12";
+        final String appName="Biblioteka chyba ver 1.13";
         System.out.println(appName);
         LibraryControl libraryControl = new LibraryControl();
         libraryControl.controlLoop();
