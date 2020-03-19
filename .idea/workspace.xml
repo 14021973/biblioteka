@@ -307,9 +307,9 @@
     <state x="491" y="329" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1536.834@0.0.1536.834" timestamp="1583350592589" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/biblioteka$biblioteka.ic" NAME="biblioteka Coverage Results" MODIFIED="1581791990627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/biblioteka$LibraryApp.ic" NAME="LibraryApp Coverage Results" MODIFIED="1583001772829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>pl.biblioteka.app.*</FILTER>
     </SUITE>
+    <SUITE FILE_PATH="coverage/biblioteka$biblioteka.ic" NAME="biblioteka Coverage Results" MODIFIED="1581791990627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
