@@ -205,11 +205,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="596" y="108" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.0.1536.834@0.0.1536.834" timestamp="1583437197184" />
-    <state x="530" y="15" width="1329" height="888" key="CommitChangelistDialog2" timestamp="1584639772987">
+    <state x="530" y="15" width="1329" height="888" key="CommitChangelistDialog2" timestamp="1584706786636">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="424" y="12" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1584451479289" />
-    <state x="530" y="15" width="1329" height="888" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584639772987" />
+    <state x="530" y="15" width="1329" height="888" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1584706786636" />
     <state width="348" height="442" key="Diff.GoToChangePopup" timestamp="1584450347179">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -283,11 +283,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="618" y="333" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1584450549324" />
-    <state x="451" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584639786496">
+    <state x="451" y="189" key="Vcs.Push.Dialog.v2" timestamp="1584706789693">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1584451481985" />
-    <state x="451" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584639786496" />
+    <state x="451" y="189" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1584706789693" />
     <state x="523" y="151" key="VcsDiffUtil.ChangesDialog" timestamp="1584450349735">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -296,10 +296,11 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1584447024543" />
-    <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584446445003">
-      <screen x="0" y="0" width="1536" height="834" />
+    <state x="116" y="117" width="1688" height="816" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1584706855277">
+      <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="93" y="93" width="1350" height="648" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.834@0.0.1536.834" timestamp="1584446445003" />
+    <state x="116" y="117" width="1688" height="816" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1584706855277" />
     <state x="581" y="306" key="com.intellij.ide.util.TipDialog" timestamp="1584706629544">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
